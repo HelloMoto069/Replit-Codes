@@ -1,0 +1,35 @@
+var Name ="Anuruddh Singh";
+var School = "Dayawati Modi Acadmey ";
+var Grade = "A+";
+var Section = "A";
+var Roll_No = 17;
+
+var Math = 99;
+var Science = 74;
+var Social_Science = 54;
+
+console.log("------------ Report Card ------------");
+console.log(" ");
+console.log("Name:");
+console.log(Name);
+console.log("School:");
+console.log(School);
+console.log("Grade:");
+console.log(Grade);
+console.log("Section:");
+console.log(Section);
+console.log("Roll Number:");
+console.log(Roll_No);
+console.log("");
+console.log("---------------------------------------");
+console.log();
+console.log();
+console.log("Math");
+console.log(Math);
+console.log("Science");
+console.log(Science);
+console.log("Social Science");
+console.log(Social_Science);
+console.log();
+console.log();
+console.log("---------------------------------------");
